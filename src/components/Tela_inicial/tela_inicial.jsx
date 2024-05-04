@@ -38,20 +38,23 @@ const tela_inicial = () => {
                     
                     <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m14 7l-5 5l5 5"/></svg>
                     
-                    <div class="esportes">
+                    <button>
                         <img class ="imagem_esportes" src="https://conecta.vivendocfit.com/assets/ICON%20FUNCIONAL-34454444.svg"/>
                         Funcional
+                    </button>
                     
-                    </div>
-                    <div class="esportes">
+                    
+                    <button>
                         <img class="imagem_esportes" src="https://conecta.vivendocfit.com/assets/ICON%20FUTEBOL-87a06d75.svg" />
                         Futebol
-                    </div>
+                    </button>
 
-                    <div class="esportes">
+                    <button>
+
                         <img class="imagem_esportes" src="https://conecta.vivendocfit.com/assets/ICON%20FUTSAL-e112da7a.svg" />
                         Futsal
-                    </div>
+                    </button>
+                    
                     
                     {/* <div class="esportes">
                         <img class="imagem_esportes" src="https://conecta.vivendocfit.com/assets/ICON%20OUTROS-fd8ee86d.svg"/>
